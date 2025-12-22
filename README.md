@@ -159,8 +159,6 @@ electron-p2p/
 
 ### Architecture
 
-![Project Architecture](image.png)
-
 ```
 ┌─────────────┐                    ┌─────────────┐
 │   Peer A    │◄─── P2P WebRTC ───►│   Peer B    │
