@@ -25,7 +25,7 @@ P2P Code Executor lets two machines connect directly to each other and execute c
 ---
 
 ## Architecture
-
+![Architecture](p2p_hld.png)
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                         PEER A (Initiator)                              │
